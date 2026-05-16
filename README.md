@@ -63,13 +63,6 @@ EastGojjamVIMS/
 - **Data Entry**: Add and edit records, view reports
 - **Public**: View-only access to public records
 
-## Default Locations
-
-- Debre Markos - Kebele 01 - Center
-- Debre Markos - Kebele 02 - Arada
-- Bichena - Kebele 01 - Town Center
-- Machakel - Kebele 01 - Rural Area
-
 ## License
 
 © 2024 East Gojjam Zone Administration. All rights reserved.
