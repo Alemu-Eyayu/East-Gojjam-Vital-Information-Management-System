@@ -112,7 +112,6 @@ public class EmailSenderServlet extends HttpServlet {
             customerName, originalSubject, customerName, originalSubject, 
             originalMessage, replyMessage,
             emailConfig.getProperty("email.username", "eastgojjamvims@gmail.com"),
-            emailConfig.getProperty("system.phone", "+251-11-XXX-XXXX"),
             emailConfig.getProperty("system.address", "Debre Markos, East Gojjam Zone")
         );
     }
